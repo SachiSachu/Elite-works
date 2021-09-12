@@ -4,6 +4,6 @@ This repository is having all the works, that includes daily practice, assignmen
   * contains code for purchasing products
   * contains bill printing
   * contains code for updating the product in the mall
-## newjson.json
+## 2. newjson.json
   * contains the list of products in the mall
   * with the json extension
